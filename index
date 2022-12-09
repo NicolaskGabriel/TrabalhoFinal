@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width,intital-scale=1">
+		<title> World Cup 2022 </title>
+		<link rel="stylesheet" type="text/css" href="estilo.css">
+	</head>
+	<body>
+
+	<div class="container">
+
+		<div id="firts"> <img id="logo" src="img/Qatar_Logo.png"> </div>
+
+		<div id="div1"> <img id="principal" src="img/worldcup.jpg"> </div>
+
+		<div id="div2"> 
+
+			<div id="div2-0"> <img id="imagem1" src="img/imagem1.png"> </div>
+			<div id="div2-1"> <img id="imagem2" src="img/imagem2.jpg"> </div>
+
+		</div>
+
+		<div id="div5"> <h1 id="h1"> As Maiores Informações sobre o Grupo F da Copa do Mundo </h1> </div>
+
+		<div id="div3"> <img id="propaganda" src="img/propaganda.png"> </div>
+
+		<div id="div4">
+
+			<div id="div4-0"> 
+
+				<div id="divf-1"> <img id="not1" src="img/not1.png"> <p id="msg1"> Croácia x Brasil | Quartas de Final | FIFA World Cup Qatar 2022 | Highlights. </p> </div>
+
+				<div id="divf-2"> <img id="not2" src="img/not2.png"> <p id="msg2"> Marrocos x Espanha | Partida 16 | FIFA World Cup Qatar 2022™ | Highlights. </p> </div>
+
+				<div id="divf-3"> <img id="not3" src="img/not3.png"> <p id="msg3"> Japão x Croácia | Partida 16 | FIFA World Cup Qatar 2022™ | Highlights. </p> </div>
+
+			</div>
+			
+			<div id="div4-1"> 
+
+				<div id="divg-1"> <img id="not4" src="img/not4.jpg"> <p id="txt1"> Luka Modric comenta que a copa de 2022 será sua última na seleção Croata. </p> </div>
+
+				<div id="divg-2"> <img id="not5" src="img/not5.jpg"> <p id="txt2"> Mesmo após polêmicas Alemanha vai permanecer com o técnico Hansi Flick. </p> </div>
+
+				<div id="divg-3"> <img id="not6" src="img/not6.png"> <p id="txt3"> Croácia é multada pela Fifa por ofensas na torcida no jogo do Canadá. </p> </div>
+
+			</div>
+
+		</div>
+
+		<div id="div6"> </div>
+
+	</div>
+
+	</body>
+</html>
